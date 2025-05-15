@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.venv/
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+
+# Docker
+*.log
+*.pid
+
+# Git
+.git/
+
+# Tests
+coverage/
+.pytest_cache/
