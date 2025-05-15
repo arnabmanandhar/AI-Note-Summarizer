@@ -67,7 +67,7 @@ to access the interactive Swagger UI to test the API.
 ```json
 POST /summarize/
 {
-  "text": "Your long input text here..."
+  "text": "Long input text here..."
 }
 ```
 
@@ -75,7 +75,7 @@ Response:
 
 ```json
 {
-  "summary": "Your summarized text here."
+  "summary": "Summarized text here..."
 }
 ```
 
@@ -136,14 +136,3 @@ Contributions are welcome! Please open issues or submit pull requests.
 This project is licensed under the MIT License.
 
 ---
-
-## Contact
-
-Created by \[Your Name] - feel free to reach out!
-
-```
-
----
-
-If you want me to generate a customized one based on your exact folder structure or specific features, just let me know!
-```
